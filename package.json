@@ -1,15 +1,15 @@
-
-{                                                                                
-  "name": "be.elab.uvdrawabledrones",                              
-  "displayName": "UV Drawable Drones",                        
-  "version": "0.0.1",                         
-  "unity": "2018.1",                             
-  "unityRelease": "",                             
-  "description": "Drone mesh that are unwrapped to be drawable.",                         
-  "keywords": ["Script","Tool"],                       
-  "dependencies":{},     
-  "relatedPackages":{},     
- "samples": [
+{
+  "name": "be.elab.uvdrawabledrones",
+  "displayName": "\ud83e\uddf0,Toy: Drawable UV",
+  "version": "2026.4.1",
+  "unity": "2018.1",
+  "description": "Drone mesh that are unwrapped to be drawable.",
+  "keywords": [
+    "Script",
+    "Tool"
+  ],
+  "relatedPackages": {},
+  "samples": [
     {
       "displayName": "Demo Scene",
       "description": "A sample scene that demonstrates the features of this package.",
@@ -20,11 +20,12 @@
     "name": "Eloi Stree",
     "mail": "",
     "url": "https://github.com/EloiStree/"
-  },  
-  "repository":{
-"type":"Git",
-"url":"https://github.com/EloiStree/2024_08_05_UvDrawableDrones.git",
-"footprint":"",
-"revision":""},     
-  "category": "Script"                   
-} 
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/EloiStree/2024_08_05_UvDrawableDrones.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+}
